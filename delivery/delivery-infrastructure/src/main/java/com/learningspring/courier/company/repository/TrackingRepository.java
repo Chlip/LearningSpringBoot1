@@ -1,6 +1,6 @@
 package com.learningspring.courier.company.repository;
 
-import com.learningspring.courier.company.model.Tracking;
+import com.learningspring.courier.company.entity.Tracking;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
